@@ -1,0 +1,54 @@
+.ListMain {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 0 auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .ListText {
+    background-color: #fff;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .ListHead {
+    margin-bottom: 10px;
+    color: #007bff;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .ListUL {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .ListUL li {
+    padding: 8px;
+    margin: 5px 0;
+    background-color: #f1f1f1;
+    border-radius: 4px;
+    color: #333;
+    transition: background-color 0.3s;
+  }
+  
+  .ListUL li:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
+  
+  p {
+    color: #666;
+    font-style: italic;
+  }
+  

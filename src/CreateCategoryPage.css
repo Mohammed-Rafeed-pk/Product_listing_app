@@ -1,0 +1,35 @@
+.Createcat{
+    margin-top: 12%;
+    
+}
+.CreateInput{
+    height: 70px;
+    width: 500px;
+    border-radius: 10px;
+    font-size:medium;
+    background-color: #f9f9f9;
+    
+
+}
+.CreateButton{
+    height: 70px;
+    width: 180px;
+    border-radius: 10px;
+    font-size: medium;
+    font-weight: 500;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    
+    
+}
+
+.CreateButton:hover{
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    
+}
+.CreateForm{
+    margin-top: 60px;
+}
